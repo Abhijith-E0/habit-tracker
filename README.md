@@ -26,7 +26,7 @@ This app helps users create daily habits, track completion, and monitor daily pr
 ![habit tracker](./images/Screenshot1.png)
 
 ## Live Demo
-live link : 
+live link : https://abhijith-e0.github.io/habit-tracker/
 
 ```bash
 ## Project Structure
